@@ -3,7 +3,7 @@ Wouldn't it be nice if you could:
 ``` html
 <html>
     <body>
-        <h1>This is thepage</h1>
+        <h1>This is the page</h1>
         <script src="./footer.html"></script>
     </body>
 </html>
